@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/segment_app/static/css/main.509fbcc8.css",
+    "main.js": "/segment_app/static/js/main.124c13c0.js",
+    "index.html": "/segment_app/index.html",
+    "main.509fbcc8.css.map": "/segment_app/static/css/main.509fbcc8.css.map",
+    "main.124c13c0.js.map": "/segment_app/static/js/main.124c13c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509fbcc8.css",
+    "static/js/main.124c13c0.js"
+  ]
+}
